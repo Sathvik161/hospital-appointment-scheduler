@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "your credentials",
+  "private_key_id": "your credentials",
+  "private_key": "your credentials",
+  "client_email": "your credentials",
+  "client_id": "your credentials",
+  "auth_uri": "your credentials",
+  "token_uri": "your credentials",
+  "auth_provider_x509_cert_url": "your credentials",
+  "client_x509_cert_url": "your credentials",
+  "universe_domain": "your credentials"
+}
