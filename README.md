@@ -180,7 +180,7 @@ In our project we use two DynamoDB tables:
       - email: The email address of the patient used for verification and communication.
 - Usage: When a new patient uses the skill, their registration information is collected and stored in this table. It is also used to retrieve the patient's details when they return to the skill.
 
-- Patient_Registration csv file: https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/blob/main/example_patient_details.csv
+- Patient_Registration csv file: https://github.com/Sathvik161/hospital-appointment-scheduler/blob/main/example_patient_details.csv
 
 2. doctor_calendar_table Table:
 
