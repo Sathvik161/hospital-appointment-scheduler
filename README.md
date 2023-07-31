@@ -237,4 +237,4 @@ The Hospital Appointment Scheduler using Alexa skill was developed by :
 
 ## Feedback
 
-For any feedback or queries, please reach out to me at katakampranavshankar@gmail.com.
+For any feedback or queries, please reach out to me at sathvik.vittapu@gmail.com.
