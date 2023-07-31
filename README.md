@@ -191,7 +191,7 @@ In our project we use two DynamoDB tables:
       - calendar_id: The unique identifier for the doctor's Google Calendar.
 -Usage: The skill checks this table to find available doctors based on user-requested medical specialization and schedules appointments by updating the doctors' calendars with the appointment details.
 
-- doctor_calendar_table csv file: https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/blob/main/example_doctor_table.csv
+- doctor_calendar_table csv file: https://github.com/Sathvik161/hospital-appointment-scheduler/blob/main/example_doctor_table.csv
 
 
 
